@@ -1,0 +1,16 @@
+Shipment ID	FBA16S7VN359
+Name	07-14-2022 03-38-PM
+Plan ID	
+Ship To	GYR2
+Total SKUs	8
+Total Units	17
+
+Merchant SKU	Title	ASIN	FNSKU	external-id 	Condition	Who will prep?	Prep Type	Who will label?	Shipped
+AMD-CPU-RYZEN-5-3600-100-100000031BOX	AMD Ryzen 5 3600 6-Core, 12-Thread Unlocked Desktop Processor with Wraith Stealth Cooler	B07STGGQ18	X002R0N21V	UPC: 730143309943	New	No prep required	"--"	Merchant	1
+DYSON-HAIR-DRYER-SS-IRN/FCS-VGR	Dyson Supersonic Hair Dryer, Iron/Fuchsia	B01FIG1JIM	X003B8KV0X	UPC: 885609010212	Used - Very Good	No prep required	"--"	Merchant	1
+INTEL-CPU-I59600KF	Intel Core i5-9600KF Desktop Processor 6 Cores up to 4.6 GHz Turbo Unlocked Without Processor Graphics LGA1151 300 Series 95W	B07MQP5LNM	X003ATGYNL	UPC: 735858407700	New	No prep required	"--"	Merchant	1
+INTEL-CPU-I79700K-BX80684I79700K	Intel Core i7-9700K Desktop Processor 8 Cores up to 3.6 GHz Turbo unlocked LGA1151 300 Series 95W	B07HHN6KBZ	X002PVG79V	UPC: 735858394635	New	No prep required	"--"	Merchant	1
+INTEL-CPU-I99900K-BX806849900K	Intel Core i9-9900K Desktop Processor 8 Cores up to 5.0GHz Unlocked LGA1151 300 Series 95W (BX806849900K)	B089J731BX	X002OKAJIN	UPC: 735858456197	New	No prep required	"--"	Merchant	1
+INTEL-CPU-i911900K-BX8070811900K	Intel Core i9-11900K Desktop Processor 8 Cores up to 5.3 GHz Unlocked LGA1200 (Intel 500 Series & Select 400 Series Chipset) 125W	B08X6PPTTH	X002UPXOHF	UPC: 735858477338	New	Merchant	Bubble Wrap	Merchant	10
+INTEL-I3-10100-BX8070110100-LNO	Intel Core i3-10100 Desktop Processor 4 Cores up to 4.3 GHz  LGA1200 (Intel 400 Series Chipset) 65W, Model Number: BX8070110100	B086MMRW87	X0037ERQVN	UPC: 735858445825	Used - Like New	No prep required	"--"	Merchant	1
+SAMSUNG-SSD-970-EVO-PLUS-2TB-2-LNO	SAMSUNG HD SSD M.2 2TB 970 EVO Plus 2TB (MZ-V7S2T0BW) NVME 3500 MB/S	B07YS5VHQQ	X0035R5WNB	EAN: 5706998799654	Used - Like New	No prep required	"--"	Merchant	1

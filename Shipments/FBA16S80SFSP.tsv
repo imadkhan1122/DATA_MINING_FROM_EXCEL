@@ -1,0 +1,14 @@
+Shipment ID	FBA16S80SFSP
+Name	07-14-2022 05-22-PM
+Plan ID	
+Ship To	DAL3
+Total SKUs	6
+Total Units	6
+
+Merchant SKU	Title	ASIN	FNSKU	external-id 	Condition	Who will prep?	Prep Type	Who will label?	Shipped
+GGBT-PCIE-GC-MAPLE-RIDGE	GIGABYTE GC-MAPLE RIDGE (Intel/Thunderbolt 4/ JHL 8540 Controller/ 2x USB Type-C/ 1x DisplayPort 1.4/ 2x Mini DisplayPort/ Max Bandwidth 40GB/s/ PCle Card)	B083HZHP62	X0038AWSI7	--	New	No prep required	"--"	Merchant	1
+INTEL-CPU-I58400-BX80684I58400	Intel Core i5-8400 Desktop Processor 6 Cores up to 4.0 GHz LGA 1151 300 Series 65W	B0759FGJ3Q	X002W4RZWT	UPC: 735858350488	New	No prep required	"--"	Merchant	1
+PNY-SSD-SSD7CS900-120-RB	PNY CS900 120GB 3D NAND 2.5" SATA III Internal Solid State Drive (SSD) - (SSD7CS900-120-RB)	B0722XPTL6	X003A41YN1	UPC: 751492597843	New	No prep required	"--"	Merchant	1
+WD-HDD-RED-PLUS-WD101EFAX-10TB	Western Digital 10TB WD Red Plus NAS Internal Hard Drive HDD - 5400 RPM, SATA 6 Gb/s, CMR, 256 MB Cache, 3.5" - WD101EFAX	B083JXTH5L	X0036F5E4T	UPC: 718037866758	New	No prep required	"--"	Merchant	1
+WD-HDD-RED-PLUS-WD140EFFX-14TB	Western Digital 14TB WD Red Plus NAS Internal Hard Drive HDD - 5400 RPM, SATA 6 Gb/s, CMR, 512 MB Cache, 3.5" - WD140EFFX	B07YFGMZVV	X0036R1IMT	UPC: 718037872841	New	No prep required	"--"	Merchant	1
+WD-HDD-RED-PLUS-WD40EFRX-4TB	Western Digital 4TB WD Red Plus NAS Internal Hard Drive HDD - 5400 RPM, SATA 6 Gb/s, CMR, 64 MB Cache, 3.5" - WD40EFRX	B00EHBERSE	X0039SE02Z	UPC: 718037810058	New	No prep required	"--"	Merchant	1

@@ -1,0 +1,10 @@
+Shipment ID	FBA16NCRMLLT
+Name	FBA (4/6/22, 3:38 PM) - 1
+Plan ID	PLN4CJ7553
+Ship To	GSP1
+Total SKUs	1
+Total Units	56
+shipment-total-cases	56
+
+Merchant SKU	Title	ASIN	FNSKU	external-id 	Condition	Who will prep?	Prep Type	Who will label?	Units per case	Number of cases	Shipped
+ACER-MON-K242HYL-HBI	Acer K242HYL Hbi 23.8” Full HD (1920 x 1080) Monitor with AMD Radeon FreeSync Technology, 75Hz, 1ms (VRB) (HDMI Port 1.4 & VGA Port) Black	B08R6BBGMS	X0037HPAUJ	UPC: 195133077996	New	No prep required	"--"	Merchant	1	56	56
